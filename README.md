@@ -42,15 +42,15 @@
 ### 📊 **GitHub Analytics**
 | **Metrics** | **Stats** |
 |------------|---------|
-| **🔥 Streak Stats** | [![GitHub Streak](https://streak-stats.demolab.com/?user=ChristopherSequeira&theme=react&hide_border=true)](https://git.io/streak-stats) |
-| **🚀 GitHub Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristopherSequeira&show_icons=true&theme=react&hide_border=true) |
-| **💡 Most Used Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherSequeira&layout=compact&theme=react) |
+| **🔥 Streak Stats** | [![GitHub Streak](https://streak-stats.demolab.com/?user=Chrisz101&theme=react&hide_border=true)](https://git.io/streak-stats) |
+| **🚀 GitHub Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chrisz101&show_icons=true&theme=react&hide_border=true) |
+| **💡 Most Used Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisz101&layout=compact&theme=react) |
 
 ---
 
 ### 🤝 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehasawant/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ChristopherSequeira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-sequeira-596412182/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Chrisz101)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:christopher10sequeira@gmail.com)
 
 ---
