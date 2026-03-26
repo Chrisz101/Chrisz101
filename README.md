@@ -4,10 +4,10 @@
 ---
 
 ### 👨🏻‍💻 **About Me**
-🔍 **Passionate Data Enthusiast** with expertise in **data analysis, machine learning, and visualization**.  
+🔍 **Passionate Data Enthusiast** with expertise in **data analysis, AI & machine learning, and visualization**.  
 📊 I love turning raw data into **meaningful insights** using **Python, SQL, Tableau, and Power BI**.  
 💡 Always **exploring new technologies**, data storytelling, and business intelligence.  
-🌎 Looking for opportunities in **Data Analytics, Machine Learning, and Business Intelligence**.  
+🌎 Looking for opportunities in **Data Analytics, AI & Machine Learning, and Business Intelligence**.  
 
 ---
 
